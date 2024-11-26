@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:315283d9993d22cd5ef97ac09e5f825c129830ab8f6c188719669773187b97ad
-size 167
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.38.33130:TargetPlatformVersion=10.0.22621.0:
+Debug|x64|D:\Development\Projects\vEngine\build\|

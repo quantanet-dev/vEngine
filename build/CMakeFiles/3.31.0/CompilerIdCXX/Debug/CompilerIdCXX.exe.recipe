@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2175ce122657c9fab5108f179766248b24316dfa4a9eac962b72d8283f2d94f6
-size 330
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Development\Projects\vEngine\build\CMakeFiles\3.31.0\CompilerIdCXX\CompilerIdCXX.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

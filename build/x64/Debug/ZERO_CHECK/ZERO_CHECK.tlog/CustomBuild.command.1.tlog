@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b401e84c2079a89d7f7a6d3134b113b1ebe345203f50caa02e34ae8df90aa63e
-size 520
+^D:\DEVELOPMENT\PROJECTS\VENGINE\BUILD\CMAKEFILES\610794BAC2AF7056295E0AF8009E82F5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Development/Projects/vEngine -BD:/Development/Projects/vEngine/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Development/Projects/vEngine/build/vEngine.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

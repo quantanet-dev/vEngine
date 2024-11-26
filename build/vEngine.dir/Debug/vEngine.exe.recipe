@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32456439aa539ed3737cf91b4b63a9cc718b700da13fa9a6bd013b5bba8ce1f1
-size 428
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Development\Projects\vEngine\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Development\Projects\vEngine\build\Debug\vEngine.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

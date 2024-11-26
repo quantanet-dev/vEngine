@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e32ac593b7e834dd4a4657fd3bb98635e0b0a061d17e4d4cab0d1c7bdfc193b
-size 529
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Development\Projects\vEngine\build\CMakeFiles\610794bac2af7056295e0af8009e82f5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EB7FD0F9-994F-30A5-9EA5-0654DE07102D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
