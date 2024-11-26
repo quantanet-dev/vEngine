@@ -1,14 +1,3 @@
-{
-    "version": 1,
-    "revision": 0,
-    "rules": [
-        {
-            "primary-output": "vEngine.dir\\Debug\\main.obj",
-            "outputs": [
-                "D:\\Development\\Projects\\vEngine\\build\\vEngine.dir\\Debug\\vc143.pdb",
-                "vEngine.dir\\Debug\\"
-            ],
-            "requires": []
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9db01664d1a6a36bec8f0df46732d247d88d8c92a44e797a844ec4b1ca0e97e5
+size 354
